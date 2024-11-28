@@ -5,38 +5,38 @@ GitRepo: https://github.com/SonarSource/docker-sonarqube.git
 Architectures: amd64, arm64v8
 GitCommit: 50701464f6c6e1ec93b0692fc9525f970a2b5d93
 
-Tags: 2025.1.1-lta-developer, 2025.1-lta-developer, 2025-lta-developer
+Tags: 2025.1.0-lta-developer, 2025.1-lta-developer, 2025-lta-developer
 Architectures: amd64, arm64v8
 Directory: 9/developer
 
-Tags: 2025.1.1-lta-enterprise, 2025.1-lta-enterprise, 2025-lta-enterprise
+Tags: 2025.1.0-lta-enterprise, 2025.1-lta-enterprise, 2025-lta-enterprise
 Architectures: amd64, arm64v8
 Directory: 9/enterprise
 
-Tags: 2025.1.1-lta-datacenter-app, 2025.1-lta-datacenter-app, 2025-lta-datacenter-app
+Tags: 2025.1.0-lta-datacenter-app, 2025.1-lta-datacenter-app, 2025-lta-datacenter-app
 Architectures: amd64, arm64v8
 Directory: 9/datacenter/app
 
-Tags: 2025.1.1-lta-datacenter-search, 2025.1-lta-datacenter-search, 2025-lta-datacenter-search
+Tags: 2025.1.0-lta-datacenter-search, 2025.1-lta-datacenter-search, 2025-lta-datacenter-search
 Architectures: amd64, arm64v8
 Directory: 9/datacenter/search
 
-Tags: 0000-community, community, latest
+Tags: 25.1.0.XXXX-community, community, latest
 Architectures: amd64, arm64v8
-Directory: 10/community
+Directory: community-build
 
-Tags: 2025.1.1-developer, 2025.1-developer, 2025-developer, developer
+Tags: 2025.1.0-developer, 2025.1-developer, 2025-developer, developer
 Architectures: amd64, arm64v8
 Directory: 10/developer
 
-Tags: 2025.1.1-enterprise, 2025.1-enterprise, 2025-enterprise, enterprise
+Tags: 2025.1.0-enterprise, 2025.1-enterprise, 2025-enterprise, enterprise
 Architectures: amd64, arm64v8
 Directory: 10/enterprise
 
-Tags: 2025.1.1-datacenter-app, 2025.1-datacenter-app, 2025-datacenter-app, datacenter-app
+Tags: 2025.1.0-datacenter-app, 2025.1-datacenter-app, 2025-datacenter-app, datacenter-app
 Architectures: amd64, arm64v8
 Directory: 10/datacenter/app
 
-Tags: 2025.1.1-datacenter-search, 2025.1-datacenter-search, 2025-datacenter-search, datacenter-search
+Tags: 2025.1.0-datacenter-search, 2025.1-datacenter-search, 2025-datacenter-search, datacenter-search
 Architectures: amd64, arm64v8
 Directory: 10/datacenter/search
