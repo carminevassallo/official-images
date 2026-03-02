@@ -1,4 +1,5 @@
-Maintainers: Carmine Vassallo <carmine.vassallo@sonarsource.com> (@carminevassallo)
+Maintainers: Carmine Vassallo <carmine.vassallo@sonarsource.com> (@carminevassallo), 
+Emma Mansalier <emma.mansalier@sonarsource.com> (@emma44-m), Hatem Amairi <hatem.amairi@sonarsource.com> (@hatem-amairi-sonarsource)
 GitRepo: https://github.com/SonarSource/docker-sonarqube.git
 Architectures: amd64, arm64v8
 Builder: buildkit
@@ -43,24 +44,24 @@ Directory: commercial-editions/datacenter/search
 GitCommit: b366d18634f02e45e6dc4d28151db6704b0630c8
 GitFetch: refs/heads/release/2025.4
 
-Tags: 2025.1.5-developer, 2025.1-developer, 2025-lta-developer
+Tags: 2025.1.6-developer, 2025.1-developer, 2025-lta-developer
 Directory: commercial-editions/developer
-GitCommit: f4734dd45fbe00d4ce4393fec3e3b833a601173c
+GitCommit: 6b40f6052f87f41b6c2ccd2c5dc77e6dc4e4e3df
 GitFetch: refs/heads/release/2025.1
 
-Tags: 2025.1.5-enterprise, 2025.1-enterprise, 2025-lta-enterprise
+Tags: 2025.1.6-enterprise, 2025.1-enterprise, 2025-lta-enterprise
 Directory: commercial-editions/enterprise
-GitCommit: f4734dd45fbe00d4ce4393fec3e3b833a601173c
+GitCommit: 6b40f6052f87f41b6c2ccd2c5dc77e6dc4e4e3df
 GitFetch: refs/heads/release/2025.1
 
-Tags: 2025.1.5-datacenter-app, 2025.1-datacenter-app, 2025-lta-datacenter-app
+Tags: 2025.1.6-datacenter-app, 2025.1-datacenter-app, 2025-lta-datacenter-app
 Directory: commercial-editions/datacenter/app
-GitCommit: f4734dd45fbe00d4ce4393fec3e3b833a601173c
+GitCommit: 6b40f6052f87f41b6c2ccd2c5dc77e6dc4e4e3df
 GitFetch: refs/heads/release/2025.1
 
-Tags: 2025.1.5-datacenter-search, 2025.1-datacenter-search, 2025-lta-datacenter-search
+Tags: 2025.1.6-datacenter-search, 2025.1-datacenter-search, 2025-lta-datacenter-search
 Directory: commercial-editions/datacenter/search
-GitCommit: f4734dd45fbe00d4ce4393fec3e3b833a601173c
+GitCommit: 6b40f6052f87f41b6c2ccd2c5dc77e6dc4e4e3df
 GitFetch: refs/heads/release/2025.1
 
 Tags: 26.2.0.119303-community, community, latest
